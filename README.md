@@ -13,4 +13,4 @@ The outcome of this research and report would be:
 4. People will be restricted to visit that area to avoid vast spread of pandemic
 5. It will be helpful for healthcare sector and medical institutes to have an easy and quick picture of the report based on millions of people's data
 
-
+![](https://github.com/maryamjams/Aisol-Data-Science-Projects/blob/master/Images/covid%2019%20pak.PNG)
