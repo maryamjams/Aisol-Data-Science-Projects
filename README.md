@@ -4,7 +4,8 @@ A quick view at our previous projects related to business intelligence and data 
 This project was for general public awarness and a small contribution from Aisol for the safety of people during pandemic days.
 The data was not extracted from any specific source rather online search and kaggle.
 Tableau software is used for data visualization as it provides great visuals. By these visuals we examined the growth of Covid-19 in Pakistan.
-The outcome of this research would be: 
+Based on the data of millions of population in each region, making it easier for common man to visualize at a glance.
+The outcome of this research and report would be: 
 
 1. A clear picture of covid-19 cases in regions of Pakistan 
 2. It will be easier to provide necessary aid as per need to that specific region
