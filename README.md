@@ -5,8 +5,8 @@ A quick view at our previous projects related to business intelligence and data 
 Team Aisol created a quick business report for our client ExclusiveDeals.pk
 Steps taken in the report were as follows:
 
-1) Cleaned the messy data
-2) Arranged the messy data
+1) Cleaned multiple sheets and thousands of lines of raw data
+2) Arranged the data
 3) Processed the Machine Learning algos for accurate results
 4) Used Power BI for Visuals
 5) Presented the budget and sales report in visual bar chart for the year 2021
@@ -18,9 +18,7 @@ Steps taken in the report were as follows:
 11) Selected top five customers of the year for customer retention and conversion rate sustainability
 
 
-
-
-
+![](https://github.com/maryamjams/Aisol-Data-Science-Projects/blob/master/Images/My%20powerbi%20report.PNG)
 
 
 # Covid 19 Cases Suspected In All Regions of Pakistan
