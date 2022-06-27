@@ -19,7 +19,28 @@ Steps taken in the report were as follows:
 
 
 ![](https://github.com/maryamjams/Aisol-Data-Science-Projects/blob/master/Images/My%20powerbi%20report.PNG)
+![](https://github.com/maryamjams/Aisol-Data-Science-Projects/blob/master/Images/exc%20deal%20report%201.png)
+![](https://github.com/maryamjams/Aisol-Data-Science-Projects/blob/master/Images/exc%20deals%20report%202.png)
+![](https://github.com/maryamjams/Aisol-Data-Science-Projects/blob/master/Images/exc%20deals%20report%203.png)
+![](https://github.com/maryamjams/Aisol-Data-Science-Projects/blob/master/Images/exc%20deals%20report%204.png)
+![](https://github.com/maryamjams/Aisol-Data-Science-Projects/blob/master/Images/exc%20deals%20report%205.png)
+![](https://github.com/maryamjams/Aisol-Data-Science-Projects/blob/master/Images/exc%20deals%20report%206.png)
 
+
+
+#An Overview Of Customers Data From Country and Regions (Most Of The customers From Which Country) 
+
+1) Cleaned raw data and processed to get useful data only
+2) Applied Machine Learning algorithms
+3) Created visualsin form of different types of maps as per customer's demand
+4) Map only shows country and regions and shows number of customers in each country and region
+5) Map bubbles larger indicate more customers and smaller indicate less customers
+6) Colors vary on demand of clien's better understanding 
+
+![](https://github.com/maryamjams/Aisol-Data-Science-Projects/blob/master/Images/map%20viz%201.png)
+![](https://github.com/maryamjams/Aisol-Data-Science-Projects/blob/master/Images/map%20viz%202.png)
+![](https://github.com/maryamjams/Aisol-Data-Science-Projects/blob/master/Images/map%20viz%203.png)
+![](https://github.com/maryamjams/Aisol-Data-Science-Projects/blob/master/Images/map%20viz%204.png)
 
 # Covid 19 Cases Suspected In All Regions of Pakistan
 This project was for general public awarness and a small contribution from Aisol for the safety of people during pandemic days.
