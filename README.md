@@ -19,9 +19,6 @@ Steps taken in the report were as follows:
 
 
 ![](https://github.com/maryamjams/Aisol-Data-Science-Projects/blob/master/Images/My%20powerbi%20report.PNG)
-![](https://github.com/maryamjams/Aisol-Data-Science-Projects/blob/master/Images/exc%20deal%20report%201.png)
-![](https://github.com/maryamjams/Aisol-Data-Science-Projects/blob/master/Images/exc%20deals%20report%202.png)
-![](https://github.com/maryamjams/Aisol-Data-Science-Projects/blob/master/Images/exc%20deals%20report%203.png)
 ![](https://github.com/maryamjams/Aisol-Data-Science-Projects/blob/master/Images/exc%20deals%20report%204.png)
 ![](https://github.com/maryamjams/Aisol-Data-Science-Projects/blob/master/Images/exc%20deals%20report%205.png)
 ![](https://github.com/maryamjams/Aisol-Data-Science-Projects/blob/master/Images/exc%20deals%20report%206.png)
