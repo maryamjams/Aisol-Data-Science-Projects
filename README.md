@@ -18,7 +18,7 @@ Steps taken in the report were as follows:
 11) Selected top five customers of the year for customer retention and conversion rate sustainability
 
 
-![](https://github.com/maryamjams/Aisol-Data-Science-Projects/blob/master/Images/My%20powerbi%20report.PNG)
+![](https://github.com/maryamjams/Aisol-Data-Science-Projects/blob/master/Images/budget%20report%20exc%20deals.PNG)
 ![](https://github.com/maryamjams/Aisol-Data-Science-Projects/blob/master/Images/exc%20deals%20report%204.png)
 ![](https://github.com/maryamjams/Aisol-Data-Science-Projects/blob/master/Images/exc%20deals%20report%205.png)
 ![](https://github.com/maryamjams/Aisol-Data-Science-Projects/blob/master/Images/exc%20deals%20report%206.png)
