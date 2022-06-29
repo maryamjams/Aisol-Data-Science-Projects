@@ -58,5 +58,5 @@ A prototype PowerBI dashboard
 Here we are using confidential business data
 Designed to visualize key metrics relating to a large organization's communications planning and strategy
 
-
+![](https://github.com/maryamjams/Aisol-Data-Science-Projects/blob/master/Images/powerbi%20report%20business.PNG)
 
