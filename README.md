@@ -68,6 +68,4 @@ The outcome of this research and report would be:
 3)  The dashboards themselves were built using a combination of Vue.js and Graphql.
 4)  Most aspects of this dashboarding are too sensitive to show here, but key screenshots have been included.
 
-![](https://github.com/maryamjams/Aisol-Data-Science-Projects/blob/master/Images/power%20bi%20visual.PNG)
-
-![](https://github.com/maryamjams/Aisol-Data-Science-Projects/blob/master/Images/powerbi%20visual%202.PNG)
+![](https://github.com/maryamjams/Aisol-Data-Science-Projects/blob/master/Images/power%20bi%20visual.PNG) ![](https://github.com/maryamjams/Aisol-Data-Science-Projects/blob/master/Images/powerbi%20visual%202.PNG)
