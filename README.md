@@ -51,3 +51,12 @@ The outcome of this research and report would be:
 5. It will be helpful for healthcare sector and medical institutes to have an easy and quick picture of the report based on millions of people's data
 
 ![](https://github.com/maryamjams/Aisol-Data-Science-Projects/blob/master/Images/covid%2019%20pak.PNG)
+
+# A Business Report For A Large Organization
+
+A prototype PowerBI dashboard
+Here we are using confidential business data
+Designed to visualize key metrics relating to a large organization's communications planning and strategy
+
+
+
