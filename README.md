@@ -23,13 +23,11 @@ Steps taken in the report were as follows:
 ![](https://github.com/maryamjams/Aisol-Data-Science-Projects/blob/master/Images/exc%20deals%20report%205.png)
 ![](https://github.com/maryamjams/Aisol-Data-Science-Projects/blob/master/Images/exc%20deals%20report%206.png)
 
-
-
-#An Overview Of Customers Data From Country and Regions (Most Of The customers From Which Country) 
+# An Overview Of Customers Data From Country and Regions (Most Of The customers From Which Country) 
 
 1) Cleaned raw data and processed to get useful data only
 2) Applied Machine Learning algorithms
-3) Created visualsin form of different types of maps as per customer's demand
+3) Created visuals in the form of different types of maps as per customer's demand
 4) Map only shows country and regions and shows number of customers in each country and region
 5) Map bubbles larger indicate more customers and smaller indicate less customers
 6) Colors vary on demand of clien's better understanding 
