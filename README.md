@@ -61,11 +61,12 @@ The outcome of this research and report would be:
 ![](https://github.com/maryamjams/Aisol-Data-Science-Projects/blob/master/Images/powerbi%20report%20business.PNG)
 
 
-# Design and Analytics Consulting for A MArketing Agency's Product
+# Design and Analytics Consulting for A Marketing Agency's Product
 
 1)  This report was for an international marketing agency to aid with the development of internal dashboards and analytics tools designed to support an internal communications tool.
 2)  All the technology used in this product was completely bespoke
 3)  The dashboards themselves were built using a combination of Vue.js and Graphql.
 4)  Most aspects of this dashboarding are too sensitive to show here, but key screenshots have been included.
 
-(https://github.com/maryamjams/Aisol-Data-Science-Projects/blob/master/Images/power%20bi%20visual.PNG)
+![](https://github.com/maryamjams/Aisol-Data-Science-Projects/blob/master/Images/power%20bi%20visual.PNG)
+![](https://github.com/maryamjams/Aisol-Data-Science-Projects/blob/master/Images/powerbi%20visual%202.PNG)
