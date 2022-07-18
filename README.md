@@ -27,9 +27,9 @@ Executed with following steps and completed task accordingly to create a dynamic
 ![](https://github.com/maryamjams/Aisol-Data-Science-Projects/blob/master/Images/report%201.PNG) <BR/>
 ![](https://github.com/maryamjams/Aisol-Data-Science-Projects/blob/master/Images/report2.PNG)
 
-#Report For Electricity Access Worldwide By United Nation's Data in Data Lab
+# Report For Electricity Access Worldwide By United Nation's Data in Data Lab
 
-Please a look at few visuals created for UN report on electricity access worldwide
+Please have a look at few visuals created for UN report on electricity access worldwide
 
 ![](https://github.com/maryamjams/Aisol-Data-Science-Projects/blob/master/Images/report%20un%20electiricity.PNG)
 ![](https://github.com/maryamjams/Aisol-Data-Science-Projects/blob/master/Images/report%20un%20electricity%202.PNG)
