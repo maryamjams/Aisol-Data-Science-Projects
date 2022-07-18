@@ -1,7 +1,7 @@
 # Data-Science-Projects by Maryam Jamshed Khan
 A quick view at few recent projects related to business intelligence and data science
 
-# Report for United Nation's Agency FAO
+# Report for Client (United Nation's Agency FAO)
 
 Developed a visual report for United Nation's agency with raw data obtained from them.
 Executed with following steps and completed task accordingly to create a dynamic dashboard.
@@ -26,6 +26,12 @@ Executed with following steps and completed task accordingly to create a dynamic
 
 ![](https://github.com/maryamjams/Aisol-Data-Science-Projects/blob/master/Images/report%201.PNG) <BR/>
 ![](https://github.com/maryamjams/Aisol-Data-Science-Projects/blob/master/Images/report2.PNG)
+
+#Report For Electricity Access Worldwide By United Nation's Data in Data Lab
+
+Please a look at few visuals created for UN report on electricity access worldwide
+
+![](https://github.com/maryamjams/Aisol-Data-Science-Projects/blob/master/Images/report%20un%20electiricity.PNG)
 
 
 # Business Report For ExclusiveDeals 
