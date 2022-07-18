@@ -1,8 +1,35 @@
-# Aisol-Data-Science-Projects
+# Data-Science-Projects by Maryam Jamshed Khan
 A quick view at our previous projects related to business intelligence and data science
 
+# Report for United Nation's Agency FAO
+
+Developed a visual report for United Nation's agency with raw data obtained from them.
+Executed with following steps and completed task accordingly to create a dynamic dashboard.
+
+1) Extracted the important data from provided source
+2) Processed and analyzed the data in order to take out useful insights as per the requirements
+3) Created a dashboard using Power BI with dynamic features:
+4) Created a drop down menu which opens a list of countries & regions
+5) When you click on the country/region the metrices show the calculations for that specific place only
+6) On left side, the chart presents the data of resource partners by average of percentage
+7) When you click on any name of resource partner on the right side calculations change accordingly
+8) On every click at any visual you can see the specific number and calculations related to the selection
+9) Left side of the dashboard contains four buttons to navigate the pages of visual report Country 
+10) Region wise data are presented on first page in the form of graphs and stacked bar charts for easy access and understanding
+11) On the same page some line graphs present average delivery percentage, BH average and their comparison
+12) Monthly , yearly average amount is in the form of line line graph on page one
+13) Contribution to strategic objectives is present in the form of a pie chart on the top right corner of page 2 in visual report
+14) Below that diagram is the donut chart presenting the monthly resource mobilization
+15) On the top left corner on page 2 of visual report is a donut chart presentingthe RM trend by percent
+16) Below that chart is another donut chart with delivery trend from 2015 to 2021 June
+
+
+![]()
+
+
+
 # Business Report For ExclusiveDeals 
-Team Aisol created a quick business report for our client ExclusiveDeals.pk
+Created a quick business report for our client ExclusiveDeals.pk
 Steps taken in the report were as follows:
 
 1) Cleaned multiple sheets and thousands of lines of raw data
