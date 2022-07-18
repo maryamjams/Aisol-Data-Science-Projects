@@ -24,8 +24,8 @@ Executed with following steps and completed task accordingly to create a dynamic
 16) Below that chart is another donut chart with delivery trend from 2015 to 2021 June
 
 
-![](https://github.com/maryamjams/Aisol-Data-Science-Projects/blob/master/Images/report%201.PNG)
-
+![](https://github.com/maryamjams/Aisol-Data-Science-Projects/blob/master/Images/report%201.PNG) <BR/>
+![](https://github.com/maryamjams/Aisol-Data-Science-Projects/blob/master/Images/report2.PNG)
 
 
 # Business Report For ExclusiveDeals 
