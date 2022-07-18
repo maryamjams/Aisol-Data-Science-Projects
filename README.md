@@ -32,6 +32,7 @@ Executed with following steps and completed task accordingly to create a dynamic
 Please a look at few visuals created for UN report on electricity access worldwide
 
 ![](https://github.com/maryamjams/Aisol-Data-Science-Projects/blob/master/Images/report%20un%20electiricity.PNG)
+![](https://github.com/maryamjams/Aisol-Data-Science-Projects/blob/master/Images/report%20un%20electricity%202.PNG)
 
 
 # Business Report For ExclusiveDeals 
